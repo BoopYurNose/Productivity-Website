@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+.Border {
+ border-top: 50px solid black;
+ text-align: center;
+}
+
+
+.Border-Text-Middle {
+ color: white;
+ position: relative;
+ font-size: 30px;
+ top: -42.5px;
+ left: 150px;
+}
+
+.Border-Text-Middleish {
+    color: white;
+    position: relative;
+    font-size: 30px;
+    top: -42.5px;
+    left: 300px;
+}
+
+.Border-Text-Left {
+    color: white;
+    position: relative;
+    font-size: 30px;
+    top: -42.5px;
+    left: 100px;
+}
+
+.Border-Text-FarLeft {
+    color: white;
+    position: relative;
+    font-size: 30px;
+    top: -42.5px;
+    left: 150px;
+}
+
+
+
+.Border-Text-Right {
+   color: white;
+   position: relative;
+   font-size: 30px;
+   top: -42.5px;
+   Right: 300px;
+}
+
+.Border-Text-FarRight {
+   color: white;
+   position: relative;
+   font-size: 30px;
+   top: -42.5px;
+   Right: 700px;
+}

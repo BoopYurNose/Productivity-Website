@@ -1,0 +1,17 @@
+body {
+   background-color: gray;
+}
+
+
+.HeadingText{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+.BodyText {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
